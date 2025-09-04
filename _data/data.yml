@@ -21,27 +21,27 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Idioma
       info:
-        - idiom: English
+        - idiom: Español
           level: Native
 
-        - idiom: French
+        - idiom: Ingles
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Frances
+          level: Beginner
 
     interests:
-      title: Interests
+      title: Intereses
       info:
-        - item: Climbing
+        - item: Viajar
           link:
 
-        - item: Snowboarding
+        - item: Natacion artistica
           link:
 
-        - item: Cooking
+        - item: Disfrutar el tiempo en familia
           link:
 
 career-profile:
@@ -51,49 +51,29 @@ career-profile:
        y mobil ademas del funcionamiento de estas. Me caracerizo por ser una persona creativa, curiosa y apasionada 
        en mis proyectos personales. Me motiva la superacion personal y los desafios tecnicos.
 education:
-    title: Education
+    title: Educacion
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ingenieria de Sistemas
+        university: Pontificia Universidad Javeriana
+        time: 2022 - Actualmente
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Me encuentro actualmente estudiando la carrera de ingenieria de sistemas.
+      - degree: Bachillerato
+        university: Colegio SummerHill School
+        time: 2015 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Curse y me gradue de bachillerato en el colegio Summerhill School.
 
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Semillero ACM - Desarrollo Web
+        time: Enero 2024 - Julio 2024
+        company: ACM
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Adquirí habilidades tecnicas en el area del Desarrollo Web, utilizando 
+          tecnologias/lenguajes como HTML, CSS, GitHub, TypeScript y Angular. Cree una aplicacion Web 
+          en la cual hice requests (HTTP) traendo informacion de una API Rest.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
