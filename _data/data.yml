@@ -139,11 +139,13 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Sensor de temperatura - Desarrolle un proyecto para la materia de redes 
+      y telecomunicaciones donde debiamos programar un arduino, con sensores y actuadores.
+       Para ello se utilizo un sensor de temperatura y una luz como alarma para avisar al usuario cuando
+        el ambiente estuviera fuera de la temperatura establecida, asi mismo llegaba un mensaje a telegram 
+        cuando esto ocurria.
     assignments:
       - title: Velocity
         link: "#hook"
