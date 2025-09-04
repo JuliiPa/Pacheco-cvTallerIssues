@@ -45,14 +45,11 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Carrera profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Estudiante de Ingenieria en Sistemas, me apasiona aprender a profundidad el desarrollo de aplicaciones web
+       y mobil ademas del funcionamiento de estas. Me caracerizo por ser una persona creativa, curiosa y apasionada 
+       en mis proyectos personales. Me motiva la superacion personal y los desafios tecnicos.
 education:
     title: Education
     info:
