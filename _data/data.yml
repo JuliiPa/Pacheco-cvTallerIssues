@@ -77,23 +77,15 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Semillero ACM - Desarrollo Web
+        time: Enero 2024 - Julio 2024
+        company: ACM
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Adquirí habilidades tecnicas en el area del Desarrollo Web, utilizando 
+          tecnologias/lenguajes como HTML, CSS, GitHub, TypeScript y Angular. Cree una aplicacion Web 
+          en la cual hice requests (HTTP) traendo informacion de una API Rest.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
